@@ -29,7 +29,7 @@
 </p>
 
 ### Key Projects
-- **Final Year Project: Spatiotemporal Analysis of Water Resources Depth** (April 2024–2025)  
+- **Final Year Project: Spatiotemporal Analysis of Groundwater Depth** (April 2024–2025)  
   Used AI (Random Forest, XGBoost) and GIS to predict depletion in Nepal's Terai region. Built databases, automated workflows with Python. [Repo](https://github.com/BimalGhimire38/Machine_Learning-Application-in-Ground-Water-Level-Drivers)
 
 - **NRW Estimation at KUKL** (Internship, June–August 2025)  
