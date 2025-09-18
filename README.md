@@ -16,6 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="mailto:bimalghimire116@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=flat&logo=gmail" alt="Email" /></a>
+  <a href="https://engineersviews.com/contact/"><img src="https://img.shields.io/badge/Contact%20Page-Visit-blue?style=flat" alt="Contact Page" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
