@@ -21,4 +21,20 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/Python-Expert-yellow?style=flat&logo=python" alt="Python" />
-  <img src="https://img.shields.io/badge/Pandas
+  <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-blue?style=flat&logo=pandas" alt="Pandas" />
+  <img src="https://img.shields.io/badge/scikit--learn-ML-orange?style=flat&logo=scikitlearn" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/QGIS-GIS-green?style=flat&logo=qgis" alt="QGIS" />
+  <img src="https://img.shields.io/badge/Google%20Earth%20Engine-Remote%20Sensing-brightgreen?style=flat&logo=google-earth" alt="Google Earth Engine" />
+  <img src="https://img.shields.io/badge/PyTorch-DL-red?style=flat&logo=pytorch" alt="PyTorch" />
+</p>
+
+### Key Projects
+- **Final Year Project: Spatiotemporal Analysis of Water Resources Depth** (April 2024–2025)  
+  Used AI (Random Forest, XGBoost) and GIS to predict depletion in Nepal's Terai region. Built databases, automated workflows with Python. [Repo](https://github.com/BimalGhimire38/Machine_Learning-Application-in-Ground-Water-Level-Drivers)
+
+- **NRW Estimation at KUKL** (Internship, June–August 2025)  
+  Analyzed 5,500+ water utility datasets using Python and GIS; reduced Non-Revenue Water by 21% via data-driven strategies. [Repo](https://github.com/BimalGhimire38/NRW-Estimation-and-Scenario-Analysis)
+
+### GitHub Stats
+![Bimal's GitHub stats](https://github-readme-stats.vercel.app/api?username=BimalGhimire38&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BimalGhimire38&layout=compact&theme=radical)
