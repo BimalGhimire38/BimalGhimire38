@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=BimalGhimire38&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-- 🌱 I'm a recent B.E. in Civil Engineering from TU, IOE Pulchowk Campus (July 2025), specializing in GIS, Remote Sensing, and AI-driven solutions for Water Resources, Hydrology, and Climate challenges.
+- 🌱 I'm a recent B.E. in Civil Engineering Graduate from TU, IOE Pulchowk Campus (July 2025), specializing in GIS, Remote Sensing, and AI-driven solutions for Water Resources, Hydrology, and Climate challenges.
 - 🔭 Seeking MS opportunities in Water Resources Engineering, Hydrology, or Climate Science, leveraging Artificial Intelligence (AI), Machine Learning (ML), and Deep Learning (DL) for sustainable solutions.
 - 👨‍💻 Check out my repositories: [Groundwater Level Drivers](https://github.com/BimalGhimire38/Machine_Learning-Application-in-Ground-Water-Level-Drivers) | [NRW Estimation](https://github.com/BimalGhimire38/NRW-Estimation-and-Scenario-Analysis) | [Groundwater Data Pipeline](https://github.com/BimalGhimire38/gw-data-filter-clean-merge)
 - 🌐 Visit my personal portfolio: [bimalghimire.info.np](https://bimalghimire.info.np/)
