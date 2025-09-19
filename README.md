@@ -41,4 +41,4 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BimalGhimire38&layout=compact&theme=radical)
 
 ### My Contribution Graph
-[![Bimal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BimalGhimire38)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Bimal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BimalGhimire38&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&border_color=ff0000)](https://github.com/ashutosh00710/github-readme-activity-graph)
