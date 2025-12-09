@@ -7,7 +7,7 @@
 </p>
 
 - 🌱 I'm a recent B.E. in Civil Engineering Graduate from TU, IOE Pulchowk Campus (July 2025), specializing in GIS, Remote Sensing, and AI-driven solutions for Water Resources, Hydrology, and Climate challenges.
-- 🔭 Seeking MS opportunities in Water Resources Engineering, Hydrology, or Climate Science, leveraging Artificial Intelligence (AI), Machine Learning (ML), and Deep Learning (DL) for sustainable solutions.
+- 🔭 Seeking MS/PhD opportunities in Water Resources Engineering, Hydrology, or Climate Science, leveraging Artificial Intelligence (AI), Machine Learning (ML), and Deep Learning (DL) for sustainable solutions.
 - 👨‍💻 Check out my repositories: [Groundwater Level Drivers](https://github.com/BimalGhimire38/Machine_Learning-Application-in-Ground-Water-Level-Drivers) | [NRW Estimation](https://github.com/BimalGhimire38/NRW-Estimation-and-Scenario-Analysis) | [Groundwater Data Pipeline](https://github.com/BimalGhimire38/gw-data-filter-clean-merge)
 - 🌐 Visit my personal portfolio: [bimalghimire.info.np](https://bimalghimire.info.np/)
 - 💡 Solo founder of [Engineers Views](https://engineersviews.com/), where I write blog posts, develop practical calculation tools (e.g., Water Budget Calculator, Sieve Analysis Report Generator), and share insights on civil engineering, AI, and technology integration.
