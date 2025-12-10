@@ -37,8 +37,11 @@
   Analyzed 5,500+ water utility datasets using Python and GIS; That helped to reduce Non-Revenue Water by 21% via data-driven strategies. [Repo](https://github.com/BimalGhimire38/NRW-Estimation-and-Scenario-Analysis)
 
 ### GitHub Stats
+
 ![Bimal's GitHub stats](https://github-readme-stats.vercel.app/api?username=BimalGhimire38&show_icons=true&theme=radical)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BimalGhimire38&layout=compact&theme=radical)
+
 
 ### My Contribution Graph
 [![Bimal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BimalGhimire38&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&border_color=ff0000)](https://github.com/ashutosh00710/github-readme-activity-graph)
