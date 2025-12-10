@@ -34,7 +34,7 @@
   Used AI (Random Forest, XGBoost) and GIS to predict depletion in Nepal's Terai region. Built databases, automated workflows with Python. [Repo](https://github.com/BimalGhimire38/Machine_Learning-Application-in-Ground-Water-Level-Drivers)
 
 - **NRW Estimation at KUKL** (Internship, June–August 2025)  
-  Analyzed 5,500+ water utility datasets using Python and GIS; reduced Non-Revenue Water by 21% via data-driven strategies. [Repo](https://github.com/BimalGhimire38/NRW-Estimation-and-Scenario-Analysis)
+  Analyzed 5,500+ water utility datasets using Python and GIS; That helped to reduce Non-Revenue Water by 21% via data-driven strategies. [Repo](https://github.com/BimalGhimire38/NRW-Estimation-and-Scenario-Analysis)
 
 ### GitHub Stats
 ![Bimal's GitHub stats](https://github-readme-stats.vercel.app/api?username=BimalGhimire38&show_icons=true&theme=radical)
