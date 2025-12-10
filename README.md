@@ -47,10 +47,14 @@
 [![Bimal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BimalGhimire38&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&border_color=ff0000)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Some Visuals about my Profile
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BimalGhimire38&theme=aura)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BimalGhimire38&theme=aura)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BimalGhimire38&theme=aura&utcOffset=8)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BimalGhimire38&theme=aura)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BimalGhimire38&theme=aura)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BimalGhimire38&theme=aura)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BimalGhimire38&theme=aura)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BimalGhimire38&theme=aura&utcOffset=8)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BimalGhimire38&theme=aura)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BimalGhimire38&theme=aura)
+
