@@ -46,6 +46,39 @@
 ### My Contribution Graph
 [![Bimal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BimalGhimire38&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&border_color=ff0000)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+## GitHub Stats
+
+![Streak](https://streak-stats.demolab.com?user=BimalGhimire38&theme=radical)
+
+![Top Languages](https://github-readme-stats-dun-sigma.vercel.app/api/top-langs/?username=BimalGhimire38&layout=compact&theme=radical)
+
+![General Stats](https://github-readme-stats-dun-sigma.vercel.app/api?username=BimalGhimire38&show_icons=true&theme=radical)
+
+## Achievement Trophy
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=BimalGhimire38&theme=dracula&no-frame=true&row=1&column=6)
+
+## My Contribution Graph
+
+![Contributions](https://github-readme-activity-graph.vercel.app/graph?username=BimalGhimire38&theme=react-dark)
+
+
+## Profile Summary Cards
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BimalGhimire38&theme=aura)
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BimalGhimire38&theme=aura)
+
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BimalGhimire38&theme=aura)
+
+![Repos by Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BimalGhimire38&theme=aura)
+
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BimalGhimire38&theme=aura)
+
+
+
+
+
 ### Some Visuals about my Profile
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BimalGhimire38&theme=aura)
@@ -57,4 +90,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BimalGhimire38&theme=aura)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BimalGhimire38&theme=aura)
+
+
+
 
