@@ -48,15 +48,6 @@ Used Random Forest and XGBoost with GIS to study groundwater depletion in Nepal'
 Analyzed more than 5500 water utility datasets using Python and GIS. Helped reduce Non Revenue Water by 21 percent through data driven insights.  
 [Repository](https://github.com/BimalGhimire38/NRW-Estimation-and-Scenario-Analysis)
 
----
-
-## GitHub Stats
-
-![General Stats](https://github-readme-stats-dun-sigma.vercel.app/api?username=BimalGhimire38&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats-dun-sigma.vercel.app/api/top-langs/?username=BimalGhimire38&layout=compact&theme=radical)
-
-![Streak](https://streak-stats.demolab.com?user=BimalGhimire38&theme=radical)
 
 
 ## Contribution Graph
