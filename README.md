@@ -58,12 +58,6 @@ Analyzed more than 5500 water utility datasets using Python and GIS. Helped redu
 
 ![Streak](https://streak-stats.demolab.com?user=BimalGhimire38&theme=radical)
 
----
-
-## Achievement Trophy
-![Trophy](https://github-profile-trophy.vercel.app/?username=BimalGhimire38&theme=dracula&no-frame=true&row=1&column=6)
-
----
 
 ## Contribution Graph
 ![Contributions](https://github-readme-activity-graph.vercel.app/graph?username=BimalGhimire38&theme=react-dark)
