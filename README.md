@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">Hi 👋, I'm Bimal Ghimire</h1>
-<h3 align="center">Civil Engineer | Water Resources Enthusiast | AI Innovator</h3>
+<h3 align="center">Civil Engineer | Water Resources Enthusiast | AI Innovator To Be</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=BimalGhimire38&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
