@@ -27,14 +27,33 @@
 ---
 
 ### Languages and Tools
+
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-Expert-yellow?style=flat&logo=python" />
-  <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-blue?style=flat&logo=pandas" />
-  <img src="https://img.shields.io/badge/scikit--learn-ML-orange?style=flat&logo=scikitlearn" />
-  <img src="https://img.shields.io/badge/QGIS-GIS-green?style=flat&logo=qgis" />
-  <img src="https://img.shields.io/badge/Google%20Earth%20Engine-Remote%20Sensing-brightgreen?style=flat&logo=google-earth" />
-  <img src="https://img.shields.io/badge/PyTorch-DL-red?style=flat&logo=pytorch" />
+  <!-- Core Programming & ML -->
+  <img src="https://img.shields.io/badge/PyTorch-Deep%20Learning-red?style=for-the-badge&logo=pytorch" />
+  <img src="https://img.shields.io/badge/Python-Expert-yellow?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/NumPy-Scientific%20Computing-blue?style=for-the-badge&logo=numpy" />
+  <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-blue?style=for-the-badge&logo=pandas" />
+  <img src="https://img.shields.io/badge/scikit--learn-Machine%20Learning-orange?style=for-the-badge&logo=scikitlearn" />
+
+  <!-- GIS & Remote Sensing -->
+  <img src="https://img.shields.io/badge/GeoPandas-Spatial%20Analysis-darkgreen?style=for-the-badge&logo=geopandas" />
+  <img src="https://img.shields.io/badge/Rasterio-Geospatial%20Raster-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/QGIS-GIS-brightgreen?style=for-the-badge&logo=qgis" />
+  <img src="https://img.shields.io/badge/Google%20Earth%20Engine-Remote%20Sensing-2E7D32?style=for-the-badge&logo=google-earth" />
+
+  <!-- Web Development -->
+  <img src="https://img.shields.io/badge/HTML5-Web-orange?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/CSS3-Styles-blue?style=for-the-badge&logo=css3" />
+  <img src="https://img.shields.io/badge/JavaScript-Frontend-yellow?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/PHP-Backend-purple?style=for-the-badge&logo=php" />
+  <img src="https://img.shields.io/badge/SQL-Database-lightgrey?style=for-the-badge&logo=postgresql" />
+
+  <!-- Systems & Scientific Programming -->
+  <img src="https://img.shields.io/badge/C-Systems%20Programming-00599C?style=for-the-badge&logo=c" />
+  <img src="https://img.shields.io/badge/Fortran-Scientific%20Computing-734F96?style=for-the-badge" />
 </p>
+
 
 ---
 
