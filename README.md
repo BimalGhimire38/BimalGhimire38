@@ -1,8 +1,8 @@
 <!-- Header Banner -->
 <h1 align="center">Hi 👋, I'm Bimal Ghimire</h1>
-<h3 align="center">
+<!-- <h3 align="center">
 Civil Engineer • Water Resources Enthusiast • AI Innovator in Progress
-</h3>
+</h3> -->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=BimalGhimire38&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
