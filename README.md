@@ -9,7 +9,7 @@ Civil Engineer • Water Resources Enthusiast • AI Innovator in Progress
 </p>
 
 <p align="center">
-  🌍 GIS & Remote Sensing • 💧 Hydrology & Groundwater • 🤖 AI for Climate & Water
+I love being driven by data ... 
 </p>
 
 ---
