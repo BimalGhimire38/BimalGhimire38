@@ -17,8 +17,8 @@ I love being driven by data ...
 ## 👨‍🎓 About Me
 
 - 🌱 Recent **B.E. Civil Engineering Graduate** from **TU IOE Pulchowk Campus** (July 2025)  
-- 🎯 Focus areas: **GIS, Remote Sensing, Hydrology, Groundwater Modeling, AI & ML for Climate Science**
-- 🔭 Actively seeking **MS or PhD opportunities** in **Water Resources, Hydrology, or Climate Science**
+- 🎯 Focus areas: **GIS, Remote Sensing, Hydrology, Groundwater Modeling, AI & ML for sustainable water resource and environment management.**
+- 🔭 Actively seeking **MS or PhD opportunities** in **Water Resources, Hydrology, or Climate Science leveraging data-driven modeling**
 - 💡 Founder of **[Engineers Views](https://engineersviews.com/)**  
   Writing engineering blogs and building practical tools like **Water Budget Calculator** and **Sieve Analysis Report Generator**
 - 🌐 Portfolio: **[bimalghimire.info.np](https://bimalghimire.info.np/)**
