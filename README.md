@@ -21,7 +21,7 @@ loves being driven by data ...
 - 🔭 Actively seeking **MS or PhD opportunities** in **Water Resources, Hydrology, or Climate Science leveraging data-driven modeling**
 - 💡 Founder of **[Engineers Views](https://engineersviews.com/)**  
   Writing engineering blogs and building practical tools.
-- 🌐 Portfolio: **[bimalghimire.info.np](https://bimalghimire.info.np/)**
+- 🌐 Portfolio: **[bimalghimire.info.np](https://bimalghimire.info.np/)** ( Under Development )
 - 📫 Email: **bimalghimire116@gmail.com**
 
 ---
