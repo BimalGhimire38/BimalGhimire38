@@ -20,7 +20,7 @@ loves being driven by data ...
 - 🎯 Focus areas: **GIS, Remote Sensing, Hydrology, Groundwater Modeling, AI & ML for sustainable water resource and environment management.**
 - 🔭 Actively seeking **MS or PhD opportunities** in **Water Resources, Hydrology, or Climate Science leveraging data-driven modeling**
 - 💡 Founder of **[Engineers Views](https://engineersviews.com/)**  
-  Writing engineering blogs and building practical tools like **Water Budget Calculator** and **Sieve Analysis Report Generator**
+  Writing engineering blogs and building practical tools.
 - 🌐 Portfolio: **[bimalghimire.info.np](https://bimalghimire.info.np/)**
 - 📫 Email: **bimalghimire116@gmail.com**
 
