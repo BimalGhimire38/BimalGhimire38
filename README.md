@@ -9,7 +9,7 @@ Civil Engineer • Water Resources Enthusiast • AI Innovator in Progress
 </p>
 
 <p align="center">
-I love being driven by data ... 
+loves being driven by data ... 
 </p>
 
 ---
