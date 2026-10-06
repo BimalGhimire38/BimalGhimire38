@@ -13,7 +13,6 @@ PhD Student | Remote Sensing • Machine Learning • Environmental & Water Reso
 Using remote sensing, environmental observations, and machine learning to better understand and monitor Earth systems.
 </p>
 
----
 
 ## 👨‍🔬 About Me
 
@@ -28,7 +27,6 @@ Using remote sensing, environmental observations, and machine learning to better
 - 🌐 Portfolio: **[bimalghimire.info.np](https://bimalghimire.info.np/)**
 - 📫 Email: **bimalghimire116@gmail.com**
 
----
 
 ## 🔬 Current Research Interests
 
@@ -43,16 +41,6 @@ My research lies at the intersection of **Earth observation and machine learning
 - 📡 Radar and microwave remote sensing
 - 🧪 Scientific machine learning and physics-informed data analysis
 
----
-
-## 🚀 Featured Repositories
-
-- 🔹 [Groundwater Level Drivers using Machine Learning](https://github.com/BimalGhimire38/Machine_Learning-Application-in-Ground-Water-Level-Drivers)
-- 🔹 [NRW Estimation and Scenario Analysis](https://github.com/BimalGhimire38/NRW-Estimation-and-Scenario-Analysis)
-- 🔹 [Groundwater Data Filtering Pipeline](https://github.com/BimalGhimire38/gw-data-filter-clean-merge)
-- 🔹 [100 Days of Machine Learning](https://github.com/BimalGhimire38/100_days_of_ml_by_campusx)
-
----
 
 ## 🧰 Languages and Tools
 
@@ -102,7 +90,6 @@ My research lies at the intersection of **Earth observation and machine learning
 - Scientific Machine Learning
 - Large-scale Earth observation data processing
 
----
 
 ## 📊 GitHub Stats
 
@@ -111,13 +98,11 @@ My research lies at the intersection of **Earth observation and machine learning
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BimalGhimire38&layout=compact&theme=tokyonight" height="165" />
 </p>
 
----
 
 ## 📈 Contribution Activity
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BimalGhimire38&theme=react-dark)
 
----
 
 ## 🧩 Profile Summary
 
@@ -128,7 +113,6 @@ My research lies at the intersection of **Earth observation and machine learning
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BimalGhimire38&theme=aura" />
 </p>
 
----
 
 ## 🤝 Connect With Me
 
