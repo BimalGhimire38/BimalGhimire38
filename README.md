@@ -17,7 +17,7 @@ Using remote sensing, environmental observations, and machine learning to better
 ## 👨‍🔬 About Me
 
 - 🎓 **PhD Student** at the **University of Minnesota**
-- 🔬 Research Assistant at the **Saint Anthony Falls Laboratory (SAFL) under [Prof. Ardeshir Ebtehaj](https://www.hydsens.com/)**
+- 🔬 Research Assistant at the **Saint Anthony Falls Laboratory (SAFL) under the supervision of [Prof. Ardeshir Ebtehaj](https://www.hydsens.com/)**
 - 🌎 Research interests: **Remote Sensing, Machine Learning, Deep Learning, Climate & Environmental Science, and Water Resources**
 - 🛰️ Currently working with satellite and geospatial datasets including **CloudSat, EarthCARE, GPM/GMI, ERA5, and other Earth observation products**
 - 🧠 Interested in **data-driven environmental modeling, satellite retrievals, spatial data fusion, gap filling/inpainting, and scientific machine learning**
